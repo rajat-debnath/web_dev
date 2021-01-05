@@ -1,0 +1,25 @@
+
+    body{background-color:#fce4d9;
+     }
+     .hr1{
+       border-style:none;
+       border-top-style: dotted;
+       border-color: grey;
+       border-width: 5px;
+       width: 5%
+       }
+   h1{
+     color:tomato;
+
+
+   }
+   h3{
+    color:white;
+    background-color: red;
+    width: 16%;
+    border-radius: 6px;
+    border-style: double;
+   }
+   li{
+     list-style: none;
+   }
